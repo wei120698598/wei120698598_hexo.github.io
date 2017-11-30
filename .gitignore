@@ -6,3 +6,6 @@ node_modules/
 public/
 .deploy*/
 /.idea/*
+.idea/markdown-navigator.xml
+.idea/markdown-navigator/
+"source/_posts/\346\265\213\350\257\225/"
