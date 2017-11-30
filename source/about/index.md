@@ -15,51 +15,30 @@ comments: true
 
 <!-- Chinese Version -->
 <div class="zh post-container">
-
     <!--copied from markdown -->
     <blockquote><p>心中志比天高</p></blockquote>
-
-    <p>Hey，我是<strong>魏树鑫(shuxin.wei)</strong>，目前在北京从事Android应用开发</p>
-
-    <p>主要在Android应用层架构方面进行研究开发，对应用层普遍使用的技术有一定的了解，并不断地深入</p>
-
-    <p>工作之余，喜欢将工作中遇到的问题和研究的成果通过博客记录下来，并分享给更多开发者</p>
-
-    <p>同时也创建了个人的公众号，并不定时的推送行业、技术等相关精华文章，扫描下方二维码即可关注</p>
-    <img src="/img/sub/qrcode_344.jpg" width="200" height="200">
-
-    <h5>Talks</h5>
-
-    <ul>
-        <li><a href="https://github.com">GitHub</a></li>
-        <li><a href="http://jekyll.com.cn/">jekyll</a></li>
-        <li><a href="https://pages.github.com/">GitHub Pages</a></li>
-    </ul>
+    <p>Hey，我是<strong>魏树鑫(shuxin.wei)</strong>，目前在北京从事Android应用开发
+       主要在Android应用层架构方面进行研究开发，对应用层普遍使用的技术有一定的了解，并不断地深入
+       工作之余，喜欢将工作中遇到的问题和研究的成果通过博客记录下来，并分享给更多开发者
+       同时也创建了个人的公众号，并不定时的推送行业、技术等相关精华文章，扫描下方二维码即可关注</p>
+       <img src="/img/sub/qrcode_344.jpg" width="200" height="200">
 </div>
 
 <!-- English Version -->
 <div class="en post-container">
     <!--copied from markdown -->
     <blockquote><p>心中志比天高</p></blockquote>
-
-    <p>Hey，我是<strong>魏树鑫(shuxin.wei)</strong>，目前在北京从事Android应用开发</p>
-
-    <p>主要在Android应用层架构方面进行研究开发，对应用层普遍使用的技术有一定的了解，并不断地深入</p>
-
-    <p>工作之余，喜欢将工作中遇到的问题和研究的成果通过博客记录下来，并分享给更多开发者</p>
-
-    <p>同时也创建了个人的公众号，并不定时的推送行业、技术等相关精华文章，扫描下方二维码即可关注</p>
+    <p>Hey，我是<strong>魏树鑫(shuxin.wei)</strong>，目前在北京从事Android应用开发
+    主要在Android应用层架构方面进行研究开发，对应用层普遍使用的技术有一定的了解，并不断地深入
+    工作之余，喜欢将工作中遇到的问题和研究的成果通过博客记录下来，并分享给更多开发者
+    同时也创建了个人的公众号，并不定时的推送行业、技术等相关精华文章，扫描下方二维码即可关注</p>
     <img src="/img/sub/qrcode_344.jpg" width="200" height="200">
-
-
-    <h5>Talks</h5>
-
-    <ul>
-        <li><a href="https://github.com">GitHub</a></li>
-        <li><a href="http://jekyll.com.cn/">jekyll</a></li>
-        <li><a href="https://pages.github.com/">GitHub Pages</a></li>
-    </ul>
 </div>
+# Talks #
+
+-  [Github](https://github.com)
+-  [Jekyll](http://jekyll.com.cn/)
+-  [GithubPages](https://pages.github.com)
 
 <!-- Handle Language Change -->
 <script type="text/javascript">
