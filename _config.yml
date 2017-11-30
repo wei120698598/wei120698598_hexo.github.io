@@ -4,7 +4,7 @@
 
 # Site
 title: shuxin.wei's Blog
-subtitle: 天再高又怎样，踮起脚尖就更接近阳光。
+subtitle: Android 一亩良田
 author: shuxin.wei
 language:
 timezone:
@@ -53,7 +53,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: a2f2ce6960b5de3bf9719e9ce3fe79e1
+ ba_track_id: a2f2ce6960b5de3bf9719e9ce3fe79e1
 # Google Analytics
 #ga_track_id: 'UA-XXXXXXXX-X'          # Format: UA-xxxxxx-xx
 #ga_domain: yoursite
