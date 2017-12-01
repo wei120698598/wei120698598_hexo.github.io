@@ -25,7 +25,7 @@ description: ""
 keyword: "ymlt, shuxin.wei Blog, 魏树鑫的博客, 一亩良田, 魏树鑫, android, java, yimuliangtian"
 header-img: img/header_img/home-bg-2-dark.png
 signature: true #show signature
-signature-img: img/signature/BeanTechSign-white.png 
+signature-img: img/signature/ymlt_white.png
 
 
 # SNS settings
@@ -62,7 +62,7 @@ ba_track_id: a2f2ce6960b5de3bf9719e9ce3fe79e1
 # Sidebar settings
 sidebar: true                       # whether or not using Sidebar.
 sidebar-about-description: "天再高又怎样，踮起脚尖就更接近阳光。"
-sidebar-avatar: img/ironman-draw.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/ymlt_logo.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 widgets:
 - featured-tags
 - short-about
