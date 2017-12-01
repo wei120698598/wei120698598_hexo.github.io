@@ -2,11 +2,10 @@
 layout: "about"
 title: "About"
 date: 2016-04-21 04:48:33
-description: "Wish for the Best, Prepare for the Worst"
-header-img: "img/header_img/Iron-Man-3.jpg"
+description: "天再高又怎样，踮起脚尖就更接近阳光。"
+header-img: "img/header_img/about_bg.jpg"
 comments: true
 ---
-
 <!-- Language Selector -->
 <select class="sel-lang" onchange="onLanChange(this.options[this.options.selectedIndex].value)">
     <option value="0" selected> 中文 Chinese</option>
@@ -14,26 +13,25 @@ comments: true
 </select>
 
 <!-- Chinese Version -->
+
+> 心中志比天高
+
 <div class="zh post-container">
-    <!--copied from markdown -->
-    <blockquote><p>心中志比天高</p></blockquote>
-    <p>Hey，我是<strong>魏树鑫(shuxin.wei)</strong>，目前在北京从事Android应用开发
-       主要在Android应用层架构方面进行研究开发，对应用层普遍使用的技术有一定的了解，并不断地深入
-       工作之余，喜欢将工作中遇到的问题和研究的成果通过博客记录下来，并分享给更多开发者
-       同时也创建了个人的公众号，并不定时的推送行业、技术等相关精华文章，扫描下方二维码即可关注</p>
-       <img src="/img/sub/qrcode_344.jpg" width="200" height="200">
+Hey，我是<strong>魏树鑫(shuxin.wei)</strong>，目前在北京从事Android应用开发
+主要在Android应用层架构方面进行研究开发，对应用层普遍使用的技术有一定的了解，并不断地深入
+工作之余，喜欢将工作中遇到的问题和研究的成果通过博客记录下来，并分享给更多开发者
+同时也创建了个人的公众号，并不定时的推送行业、技术等相关精华文章，扫描下方二维码即可关注
 </div>
 
-<!-- English Version -->
 <div class="en post-container">
-    <!--copied from markdown -->
-    <blockquote><p>心中志比天高</p></blockquote>
-    <p>Hey，我是<strong>魏树鑫(shuxin.wei)</strong>，目前在北京从事Android应用开发
-    主要在Android应用层架构方面进行研究开发，对应用层普遍使用的技术有一定的了解，并不断地深入
-    工作之余，喜欢将工作中遇到的问题和研究的成果通过博客记录下来，并分享给更多开发者
-    同时也创建了个人的公众号，并不定时的推送行业、技术等相关精华文章，扫描下方二维码即可关注</p>
-    <img src="/img/sub/qrcode_344.jpg" width="200" height="200">
+Hey，我是<strong>魏树鑫(shuxin.wei)</strong>，目前在北京从事Android应用开发
+主要在Android应用层架构方面进行研究开发，对应用层普遍使用的技术有一定的了解，并不断地深入
+工作之余，喜欢将工作中遇到的问题和研究的成果通过博客记录下来，并分享给更多开发者
+同时也创建了个人的公众号，并不定时的推送行业、技术等相关精华文章，扫描下方二维码即可关注
 </div>
+
+<img src="/img/sub/qrcode_344.jpg" width="200" height="200">
+
 # Talks #
 
 -  [Github](https://github.com)
